@@ -7,7 +7,8 @@
   <a href="">Twitter</a> •
   <a href="">Facebook</a> •
   <a href="">Instagram</a> •
-  <a href="">LinkedIn</a>
+  <a href="">LinkedIn</a> •
+  <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YKQFN3FEKRFWL&source=url">Doar</a>
 </p>
 
 Olá, meu nome é `Renato Augusto Tavares`, sou `analista de sistemas` com pós-graduação em `banco de dados e Big Data`. Ademais, sou `projetista de hardware` especializado em microcontroladores da Atmel, além de projetar sistemas embarcados de baixo consumo energético. 
