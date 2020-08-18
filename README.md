@@ -1,4 +1,4 @@
-![Renato Tavares](img/cover.jpg)
+![Renato Tavares](https://raw.githubusercontent.com/rat/rat/master/img/cover.jpg)
 #
 
 <p align="center">
