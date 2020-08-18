@@ -1,4 +1,4 @@
-![Renato Tavares](https://i.imgur.com/c5e4q8e.jpg)
+![Renato Tavares](img/cover.jpg)
 #
 
 <p align="center">
