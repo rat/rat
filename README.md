@@ -1,5 +1,5 @@
 ![Renato Tavares](https://raw.githubusercontent.com/rat/rat/master/img/cover.jpg)
-#
+- - -
 
 <p align="center">
   <a href="">Blog</a> •
@@ -53,9 +53,6 @@ LoRa         ⭐⭐⭐        3/5
 Atmel        ⭐⭐⭐⭐      4/5
 Eagle        ⭐⭐⭐⭐      4/5
 ```
-Nas horas vagas gosto de projetar APIs e criar skills para a `Amazon Alexa`, além de jogar meu amado xadrez e ler meus livros.
 
+Nas horas vagas gosto de projetar APIs e criar skills para a `Amazon Alexa`, além de jogar meu amado xadrez e ler.
 
-> Lei universal é para os servos, o contexto é para os reis. 
->
-> — Gabriel Lorca
