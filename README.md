@@ -22,7 +22,7 @@ Java            ⭐⭐⭐⭐⭐    5/5
 PHP             ⭐⭐⭐⭐      4/5 
 JavaScript      ⭐⭐⭐⭐⭐    5/5 
 React           ⭐⭐⭐⭐      4/5 
-Shell Script    ⭐⭐⭐        4/5 
+Shell Script    ⭐⭐⭐⭐      4/5 
 C/C++           ⭐⭐⭐⭐      4/5 
 Python          ⭐⭐⭐⭐      4/5 
 HTML5           ⭐⭐⭐⭐⭐    5/5 
@@ -36,11 +36,11 @@ Regex           ⭐⭐⭐⭐      4/5
 ## Banco de Dados
 ```text
 PostgreSQL      ⭐⭐⭐⭐      4/5 
-MySQL           ⭐⭐⭐⭐      5/5 
-MariaDB         ⭐⭐⭐⭐      5/5
+MySQL           ⭐⭐⭐⭐⭐    5/5 
+MariaDB         ⭐⭐⭐⭐⭐    5/5
 MongoDB         ⭐⭐⭐⭐      4/5
-SQLite          ⭐⭐⭐⭐      5/5
-Redis           ⭐⭐⭐⭐      5/5
+SQLite          ⭐⭐⭐⭐⭐    5/5
+Redis           ⭐⭐⭐⭐⭐    5/5
 ```
 
 ## Softwares
@@ -56,19 +56,19 @@ Ferramentas JetBrains   ⭐⭐⭐⭐⭐    5/5
 
 ## Sistemas Operacionais
 ```text
-Ubuntu        ⭐⭐⭐⭐⭐    5/5 
-CentOS        ⭐⭐⭐⭐⭐    5/5 
-Debian        ⭐⭐⭐⭐⭐    5/5
-Linux Mint    ⭐⭐⭐⭐⭐    5/5
-Windows    ⭐⭐⭐⭐⭐    5/5
+Ubuntu      ⭐⭐⭐⭐⭐    5/5 
+CentOS      ⭐⭐⭐⭐⭐    5/5 
+Debian      ⭐⭐⭐⭐⭐    5/5
+Linux Mint  ⭐⭐⭐⭐⭐    5/5
+Windows     ⭐⭐⭐⭐⭐    5/5
 ```
 
 ## Eletrônica
 ```text
-Arduino      ⭐⭐⭐⭐⭐    5/5
-LoRa         ⭐⭐⭐        4/5
-Atmel        ⭐⭐⭐⭐      4/5
-Eagle        ⭐⭐⭐⭐      4/5
+Arduino   ⭐⭐⭐⭐⭐    5/5
+LoRa      ⭐⭐⭐⭐      4/5
+Atmel     ⭐⭐⭐⭐      4/5
+Eagle     ⭐⭐⭐⭐      4/5
 ```
 
 Nas horas vagas gosto de projetar APIs e criar skills para a `Amazon Alexa`, além de jogar meu amado xadrez e ler.
