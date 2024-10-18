@@ -19,7 +19,7 @@ Atualmente trabalho com diversas tecnologias, tais como:
 <details>
     <summary>Tecnologias </summary>
 
-    ```text
+```text
     Java            ⭐⭐⭐⭐⭐    5/5 
     PHP             ⭐⭐⭐⭐⭐    5/5 
     JavaScript      ⭐⭐⭐⭐⭐    5/5 
@@ -33,46 +33,42 @@ Atualmente trabalho com diversas tecnologias, tais como:
     Android         ⭐⭐⭐⭐⭐    5/5 
     Alexa skills    ⭐⭐⭐⭐      4/5 
     Regex           ⭐⭐⭐⭐      4/5
-    ```
+```
 </details>
 
 <details>
     <summary>Banco de Dados</summary>
 
-    ```text
+```text
     PostgreSQL      ⭐⭐⭐⭐⭐    5/5 
     MySQL           ⭐⭐⭐⭐⭐    5/5 
     MariaDB         ⭐⭐⭐⭐⭐    5/5
     MongoDB         ⭐⭐⭐        3/5
     SQLite          ⭐⭐⭐⭐⭐    5/5
     Redis           ⭐⭐⭐⭐⭐    5/5
-    ```
+```
 </details>
-
 
 <details>
     <summary>Softwares</summary>
 
-    ```text
+```text
     Visual Studio Code      ⭐⭐⭐⭐⭐    5/5 
     Git                     ⭐⭐⭐⭐⭐    5/5
     Apache NetBeans         ⭐⭐⭐⭐⭐    5/5
     LaTeX/TeXstudio         ⭐⭐⭐⭐⭐    5/5
     Sublime Text            ⭐⭐⭐⭐⭐    5/5
-    ```
+```
 </details>
-
-
-
 
 <details>
     <summary>Eletrônica</summary>
 
 ```text
-Arduino           ⭐⭐⭐⭐⭐    5/5
-LoRa              ⭐⭐⭐⭐      4/5
-Atmel             ⭐⭐⭐⭐      4/5
-Eagle             ⭐⭐⭐⭐      4/5
-Altium Designer   ⭐⭐⭐⭐⭐    5/5
+    Arduino           ⭐⭐⭐⭐⭐    5/5
+    LoRa              ⭐⭐⭐⭐      4/5
+    Atmel             ⭐⭐⭐⭐      4/5
+    Eagle             ⭐⭐⭐⭐      4/5
+    Altium Designer   ⭐⭐⭐⭐⭐    5/5
 ```
 </details>
