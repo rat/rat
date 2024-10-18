@@ -1,13 +1,11 @@
-![Renato Tavares](https://raw.githubusercontent.com/rat/rat/master/img/cover.jpg)
+![Renato Augusto Tavares](https://raw.githubusercontent.com/rat/rat/master/img/cover.jpg)
 - - -
 
 <p align="center">
-  <a href="">Blog</a> •
-  <a href="">Resume</a> •
-  <a href="">Twitter</a> •
-  <a href="">Facebook</a> •
-  <a href="">Instagram</a> •
-  <a href="">LinkedIn</a> •
+  <a href="http://renatotavares.com">Blog</a> •
+  <a href="https://lattes.cnpq.br/9521612341950206">Currículo Lattes</a> •
+  <a href="https://raw.githubusercontent.com/rat/rat/master/resume/lattes.pdf">Resume</a> •
+  <a href="https://www.linkedin.com/in/java">LinkedIn</a> •
   <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YKQFN3FEKRFWL&source=url">Doar</a>
 </p>
 
