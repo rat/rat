@@ -1,11 +1,11 @@
 ![Renato Augusto Tavares](https://raw.githubusercontent.com/rat/rat/master/img/cover.jpg)
 
 <p align="center">
-    <a href="http://renatotavares.com">Blog</a> •
     <a href="https://lattes.cnpq.br/9521612341950206">Currículo Lattes</a> •
     <a href="https://raw.githubusercontent.com/rat/rat/master/resume/lattes.pdf">Resume</a> •
     <a href="https://arxiv.org/search/cs?searchtype=author&query=Tavares,+R+A">arXiv</a> •
     <a href="https://scholar.google.com/citations?user=5L2RbhMAAAAJ&hl=pt-BR">Google Acadêmico</a> •
+    <a href="https://orcid.org/0009-0002-0196-3311">ORCID</a> •
     <a href="https://www.linkedin.com/in/java">LinkedIn</a> •
     <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YKQFN3FEKRFWL&source=url">Doar</a>
 </p>
@@ -76,7 +76,7 @@ Atualmente trabalho com diversas tecnologias, tais como:
 ---
 # 🚨 Atenção para quem vai publicar um Artigo Científico
 
-Se você é `graduando`, `mestrando` ou `doutorando` em qualquer área e precisa de **ajuda na publicação do seu artigo científico, paper ou até mesmo para submeter sua pesquisa a uma revista especializada**, posso ajudá-lo. Caso precise de alguém para colaborar em uma das áreas listadas abaixo, envie-me um e-mail para **dr.renatotavares@gmail.com**. Avaliaremos juntos a possibilidade de `coautoria` em sua publicação.
+Se você é **`graduando`**, **`mestrando`** ou **`doutorando`** em qualquer área e precisa de **`ajuda na publicação do seu artigo científico, paper ou até mesmo para submeter sua pesquisa a uma revista especializada`**, posso ajudá-lo. Caso precise de alguém para colaborar em uma das áreas listadas abaixo, envie-me um e-mail para **`dr.renatotavares@gmail.com`**. Avaliaremos juntos a possibilidade de **`coautoria`** em sua publicação.
 
 Se você precisa de ajuda com:
 
