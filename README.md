@@ -72,3 +72,22 @@ Atualmente trabalho com diversas tecnologias, tais como:
     Altium Designer   ⭐⭐⭐⭐⭐    5/5
 ```
 </details>
+
+---
+# 🚨 Atenção para quem vai publicar um Artigo Científico
+
+Se você é `graduando`, `mestrando` ou `doutorando` em qualquer área e precisa de **ajuda na publicação do seu artigo científico, paper ou até mesmo para submeter sua pesquisa a uma revista especializada**, posso ajudá-lo. Caso precise de alguém para colaborar em uma das áreas listadas abaixo, envie-me um e-mail para **dr.renatotavares@gmail.com**. Avaliaremos juntos a possibilidade de `coautoria` em sua publicação.
+
+Se você precisa de ajuda com:
+
+- Criação de sites, ferramentas ou formulários para coleta de dados;
+- Realização de web scraping para obter grandes volumes de dados para sua pesquisa;
+- Acesso a datasets, bancos de dados ou qualquer outra base de informações para extração de dados relevantes;
+- Assistência em programação, Inteligência Artificial, Machine Learning, Visão Computacional ou Processamento Digital de Imagens;
+- Suporte em análises matemáticas ou estatísticas para examinar seus dados e extrair informações valiosas;
+- Automação de processos ou de etapas específicas da sua pesquisa;
+- Compreensão e aplicação de conceitos como média, mediana, quantil, moda, variância, desvio padrão, correlação, covariância, assimetria (skewness), curtose (kurtosis), outliers, regressão linear, entre outros, para análise de dados de maneira eficiente, mesmo que você ainda não esteja familiarizado com esses termos.
+
+Publicar um artigo científico pode ser um processo complexo, especialmente quando envolve grandes volumes de dados ou análises sofisticadas. Com minha experiência em áreas de tecnologia, ciência de dados e estatística, posso ajudá-lo a estruturar e fortalecer sua pesquisa, garantindo que você tenha as ferramentas adequadas para realizar uma análise robusta e confiável.
+
+Entre em contato para discutirmos como posso contribuir para o sucesso da sua publicação!
